@@ -1,0 +1,21 @@
+{
+    "name": "fastrans/pdf-ext",
+    "description": "PDF Extension/Helper for Laravel",
+    "autoload": {
+        "psr-4": {
+            "Fastrans\\LaravelPdfExt\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mike Lester",
+            "email": "levi730@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0",
+        "laravel/framework": "^9|^10|^11.0",
+        "typesetsh/laravel-wrapper": "^11",
+        "mikehaertl/php-pdftk": "~0.2"
+    }
+}
