@@ -1,5 +1,5 @@
 {
-    "name": "fastrans/pdf-ext",
+    "name": "fastrans/laravel-pdf-ext",
     "description": "PDF Extension/Helper for Laravel",
     "autoload": {
         "psr-4": {
